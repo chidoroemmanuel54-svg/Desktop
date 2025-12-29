@@ -1,0 +1,22 @@
+{
+  "name": "back-intro-2",
+  "version": "1.0.0",
+  "description": "2nd back intro",
+  "homepage": "https://github.com/chidoroemmanuel54-svg/Desktop#readme",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/chidoroemmanuel54-svg/Desktop/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chidoroemmanuel54-svg/Desktop.git"
+  },
+  "license": "ISC",
+  "author": "Chidoro",
+  "identifier": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {}
+}
